@@ -1,3 +1,23 @@
-body{
-    background-color: burlywood;
+@import url('https://fonts.googleapis.com/css?family=PT+Sans&display=swap');
+
+body {
+    background-color: antiquewhite;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.navbar-inner {
+    background: transparent;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.jumbotron{
+    background-image: url(../images/jumbotron-test.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 575px;
+    position: relative;
+    bottom: 60px;
+    z-index: -1;
+    background-position: center;
 }
