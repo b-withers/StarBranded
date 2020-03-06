@@ -1,3 +1,19 @@
 .jumbotron{
 	background-image: url(../images/index/jumbotron-test.jpg);
 }
+
+.bg-light {
+	background-color: white;
+}
+
+.nav-link {
+	font-size: .9rem;
+	font-weight: 800;
+	color: black !important;
+}
+
+.starfont {
+	color: black;
+	font-size: 1.2rem;
+	;
+}
